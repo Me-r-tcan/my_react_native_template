@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ditto",
-    "slug": "ditto",
+    "name": "my_react_native_template",
+    "slug": "my_react_native_template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./src/assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
